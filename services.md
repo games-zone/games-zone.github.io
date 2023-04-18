@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Renta de consolas, "siempre teniendo los titulos mas jugados del momento" .
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+¡Ya nos ubicaste! que esperas no te pierdas de los titulos mas jugados y divertidos del momento, en nuestro establecimiento te garantizaremos diversion y comodidad pero sobre y trato de lo mas agradeble -NO ESPEREMAS MAS, VISITANOS Y DIVIRTETE COMO NUNCA LO HABIAS IMAGINADO.
