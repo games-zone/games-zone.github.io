@@ -1,14 +1,14 @@
 ---
-title: "Accounting"
+title: "Juegos que actualmente tenemos, XBOX ONE"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Los juegos que actualmente tenemos son variados desde un publico infantil hasta un publico mayor, a la vés que nos preocupamos de tener los juegos mas nuevos que a su vez son muy populares, el catalogo es amplio -a si que te invito, a que juegos te animarias a jugar. 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Acción
 
 Financial accounting and financial reporting are often used as synonyms.
 
@@ -16,7 +16,7 @@ Financial accounting and financial reporting are often used as synonyms.
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
 3. According to the European Accounting Association:
 
-## Relevance
+## Aventura
 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
 
@@ -24,48 +24,28 @@ Relevance is the capacity of the financial information to influence the decision
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
+## Deportes
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
-## Enhancing Qualitative Characteristics
+## Simuladores
 
-### Verifiability
+### Juegos de interpretacion
 
 Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
 
-### Comparability
+### Juego Reglado 
 
 Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
 
-### Understandability
+### Juegos Sinópticos
 
 Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
 Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
 
 ---
 
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
+## Estrategia
 
 The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
 
