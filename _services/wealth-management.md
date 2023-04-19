@@ -1,5 +1,5 @@
 ---
-title: "Wealth Management"
+title: "Enterate de torneos de diferentes juegos, participa revisa fechas y mas"
 date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
