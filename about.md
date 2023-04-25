@@ -23,15 +23,15 @@ Las cualidades que tienen los servicios como bebidas o alimentos, depende de una
 
 El ofrecer descuentos con cada visita que tengas, el poderte entregar alimentos con exelentisima calidad, con cada visita en nuestro establecimiento tienes una gran variedad de ventajas: Promeciones, descuentos 2x1, mantener ciertos productos con decuentos para ti.
 
-## 
+## Ofertas con las demandas dadas 
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+En consecuencia las demandas nos han llevado en tener un gran grado de servicios cruziales para nuestra clientela, es por ello que en las diposiciones tenemos los siguietes atributos en los diferentes lugares que puedas escoger el servicio es mayor en cuanto tienes el lugar:
 
-## Enhancing Qualitative Characteristics
+## Atributos con los que contamos en nuestros servicios
 
-### Verifiability
+### Sillones comodos
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Nuestros sillones han demostrado que son de los mas comodos que te puedas encontrar estos mismos cuentan con diferentes capas de esponjas que hacen que sentarte en ellos te relajes asi puedas descansar el cuerpo y te sientes comodo(a) en las batallas con los demas jugadores. 
 
 ### Comparability
 
