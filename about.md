@@ -23,7 +23,7 @@ Las cualidades que tienen los servicios como bebidas o alimentos, depende de una
 
 El ofrecer descuentos con cada visita que tengas, el poderte entregar alimentos con exelentisima calidad, con cada visita en nuestro establecimiento tienes una gran variedad de ventajas: Promeciones, descuentos 2x1, mantener ciertos productos con decuentos para ti.
 
-## Faithful Representation
+## 
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
