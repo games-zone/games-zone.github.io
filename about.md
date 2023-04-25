@@ -9,13 +9,13 @@ El establecimiento se da apartir de que, de la no existencia de locales de video
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+# Calidad del servicio
 
-Financial accounting and financial reporting are often used as synonyms.
+Nuestros servicios siempre han tenido ese grado de emoción que cualquiera esperaria al jugar videojuegos en las mismas circuntacias todo es aprovechado para obtener un grado muy superior de calidad, cada que se juege a un titulo que el cliente disfruta mucho este se vuelve muy importanate para el cliente en tres aspectos muy diferentes: 
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. En la forma de como se siente en el establecimiento, esto da lugar una buena recepción por parte de el o ella.
+2. La manera en que disfruta el juego mismo en un lugar comodo y agradable, percepción que siempre tendra un buena señal de agradecimiento.
+3. Es una manera de sevirle muy clara el tener el juego que ellos esperan con muchas ancias, cosa que les atrae de una manera muy satisfactoria.
 
 ## Relevance
 
