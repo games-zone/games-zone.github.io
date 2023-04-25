@@ -17,13 +17,11 @@ Nuestros servicios siempre han tenido ese grado de emoción que cualquiera esper
 2. La manera en que disfruta el juego mismo en un lugar comodo y agradable, percepción que siempre tendra un buena señal de agradecimiento.
 3. Es una manera de sevirle muy clara el tener el juego que ellos esperan con muchas ancias, cosa que les atrae de una manera muy satisfactoria.
 
-## Relevance
+## Opciones en las calidades.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Las cualidades que tienen los servicios como bebidas o alimentos, depende de una manera algo elegante, al proporcionar una distinta variedad de bebidas y alimentos que son las claves de los servicios que les ofrecemos como: 
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+El ofrecer descuentos con cada visita que tengas, el poderte entregar alimentos con exelentisima calidad, con cada visita en nuestro establecimiento tienes una gran variedad de ventajas: Promeciones, descuentos 2x1, mantener ciertos productos con decuentos para ti.
 
 ## Faithful Representation
 
