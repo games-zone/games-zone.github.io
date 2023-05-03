@@ -46,7 +46,7 @@ Timeliness: Timeliness implies that financial information must be presented to t
 
 ## Opciones "algunas promociones"
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Las promociones son regalos que te damos por jugar con nosotros, las visitas que tengas te lo bonificaremos de una firma al juntar
 
 **Acumulacion de firmas:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
 
