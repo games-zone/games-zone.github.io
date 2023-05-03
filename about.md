@@ -33,38 +33,33 @@ En consecuencia las demandas nos han llevado en tener un gran grado de servicios
 
 Nuestros sillones han demostrado que son de los mas comodos que te puedas encontrar estos mismos cuentan con diferentes capas de esponjas que hacen que sentarte en ellos te relajes asi puedas descansar el cuerpo y te sientes comodo(a) en las batallas con los demas jugadores. 
 
-### Comparability
+### Patallas Grandes
 
 Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
 
-### Understandability
+### Acceso a internet (ilimitado)
 
 Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
 Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
 
 ---
 
-## Statement of cash flows
+## Opciones "algunas promociones"
 
 The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+**Acumulacion de firmas:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
 
 - Cash inflow: $20
 - Cash outflow:$7
 - Opening balance: $5
 - Closing balance: $20 – $7 + $5 = $18
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+**Numero de horas que juegas:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+> **Importante:** No se te rebolsara las horas jugadas, si se te olvido el ticket tienes un maximo de 2 horas para regresar al establecimiento y reclamar tu firma de lo contrario no se te firmara despues por cualquier motivo. En caso de que se te sorprenda falsificando firmas y reclamando la hora gratis, tendras un "strike" juntando mas de 3 "strikes" no se dara mas cupones para la promoción.
 
-## Statement of financial position (balance sheet)
+## Reglas dentro de establecimiento
 
 The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
 
