@@ -63,9 +63,9 @@ Las promociones son regalos que te damos por jugar con nosotros, las visitas que
 
 ## Reglas dentro de establecimiento
 
-Es muy importante seguir estas reglas de lo contrario te daremos la o (s) sanciones a continuacion. 
+Es muy importante seguir estas reglas de lo contrario te daremos la o (s) sanciones a continuacion. Las reglas son muy importantes para nosotros es por ello que siempre te pediremos que siguas las reglas a continuacion.
 
-- **fixed assets**
+- **Reglas acerca de el equipo (Control y Pantalla)**
   - property
   - building
   - equipment (such as factory machinery)
