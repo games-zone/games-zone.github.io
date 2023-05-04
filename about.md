@@ -46,16 +46,18 @@ Timeliness: Timeliness implies that financial information must be presented to t
 
 ## Opciones "algunas promociones"
 
-Las promociones son regalos que te damos por jugar con nosotros, las visitas que tengas te lo bonificaremos de una firma al juntar
+Las promociones son regalos que te damos por jugar con nosotros, las visitas que tengas te lo bonificaremos con una firma, al juntar 4 firmas te daremos una hora gratis.
 
-**Acumulacion de firmas:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+**Acumulacion de firmas:** Los ticket que te damos son para que en la parte de atras de este mismo tengas una firma por cada visita, si tienes mas de dos visitas por dia "no valdra", nadamas sera una firma por cada visita que tengas.
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+**Reglas de la promocion:**
 
-**Numero de horas que juegas:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+- Una visita, una firma 
+- La hora gratis nadamas sera aplicada de "Lunes a Jueves"
+- Al juntar "4 firmas" se te dara una hora gratis 
+- El numero de ticket con 4 firmas, te correspondan a una hora gratis. EJEMPLO: Si tienes 6 ticket con 4 firmas, te tocaria 6 horas gratis.
+
+**Numero de horas que juegas:** "El numero de horas que juegues" no corresponderan a las firmas que te daremos por X dia, si no por cada visita que tengas al establecimiento. EJEMPLO: Si un dia X juegas 5 horas no te daremos 5 firmas, si no una firma por la visita de dia X.
 
 > **Importante:** No se te rebolsara las horas jugadas, si se te olvido el ticket tienes un maximo de 2 horas para regresar al establecimiento y reclamar tu firma de lo contrario no se te firmara despues por cualquier motivo. En caso de que se te sorprenda falsificando firmas y reclamando la hora gratis, tendras un "strike" juntando mas de 3 "strikes" no se dara mas cupones para la promoción.
 
