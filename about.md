@@ -63,7 +63,7 @@ Las promociones son regalos que te damos por jugar con nosotros, las visitas que
 
 ## Reglas dentro de establecimiento
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+Es muy importante seguir estas reglas de lo contrario te daremos la o (s) sanciones a continuacion. 
 
 - **fixed assets**
   - property
