@@ -17,7 +17,7 @@ Nuestros servicios siempre han tenido ese grado de emoción que cualquiera esper
 2. La manera en que disfruta el juego mismo en un lugar comodo y agradable, percepción que siempre tendra un buena señal de agradecimiento.
 3. Es una manera de sevirle muy clara el tener el juego que ellos esperan con muchas ancias, cosa que les atrae de una manera muy satisfactoria.
 
-## Opciones en las calidades.
+## Opciones en las "calidades".
 
 Las cualidades que tienen los servicios como bebidas o alimentos, depende de una manera algo elegante, al proporcionar una distinta variedad de bebidas y alimentos que son las claves de los servicios que les ofrecemos como: 
 
@@ -35,12 +35,11 @@ Nuestros sillones han demostrado que son de los mas comodos que te puedas encont
 
 ### Patallas Grandes
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Las pantallas te brindaran un grado de experiencia mucho mayor que las patallas chicas, en cualquier juego te agrara mucho esta opcion que apesar de que sea un detalle muy pequeño lo notaras de inmediato y te sera muy util y muy confortable jugar con nosotros.
 
 ### Acceso a internet (ilimitado)
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+La opcion de internet, nos referimos a que no nadamas jugaras si no tambien podras navegar en sitios de internet, podras hacer cualquier otra cosa, ya que todos los equipos cuentan con acceso internet ilimitado. 
 
 ---
 
