@@ -66,15 +66,14 @@ Las promociones son regalos que te damos por jugar con nosotros, las visitas que
 Es muy importante seguir estas reglas de lo contrario te daremos la o (s) sanciones a continuacion. Las reglas son muy importantes para nosotros es por ello que siempre te pediremos que siguas las reglas a continuacion.
 
 - **Reglas acerca de el equipo (Control y Pantalla)**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+  - Trata de que no se te caiga el control, por ningun motivo
+  - La patalla, aquel que se le sea sorprendido golpeando la pantalla y la pantalla tenga graves daños; de immediato se le ablara a la patrulla para que puedan ver como se repondran los daños.
+  - Queda prohibido que el establecimiento sea pintado con picturas en aerosoles, aquel que se le sea sorpredido se le reportara de immediato a las autoridades.
+- **Reglas del establecimiento**
+  - No rayar, ni pintar sillones o cualquier otro objeto del establecimiento.
+  - Tratar todos los objetos del establecimiento con respeto.
+  - No "Gritar" ni "Chiflar" dentro del establecimiento.
+  - Subir el volumen de manera excesiva.
+    - Queda estrictamente "PROHIBIDO" Tomar Bebidas Alcohólicas, Fumar Cigarros (También Cigarros electronicos), Faltarle al respeto a cualquier persona (ya sea empleada(o), cliente(a) , o alguna otra persona) y Maltratar los sillones o algun objeto de local.
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Todas las anteriores reglas en caso de incumplir alguna de ellas se te sancionara de diferentes maneras segun lo que corresponda a la situación, el grado con las que se llevaron estos imcumplimientos tambien influira en como el engardo en turno respondera. Todo esto se hace para salvaguardar la integridad de todos los clientes y empleados, cualquier falta a las reglas se respondera ante la situación en mayor y menor medida. LA PRIORIDAD NUMERO UNO del establecimeinto es salvaguardar la integridad de local asi mismo de las personas que esten dentro de ella, por ningun motivo se tolera aptitudes fuera de la norma. 
