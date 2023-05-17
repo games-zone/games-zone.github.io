@@ -10,11 +10,9 @@ Los juegos que actualmente tenemos son variados desde un publico infantil hasta 
 
 # Acción
 
-Financial accounting and financial reporting are often used as synonyms.
+La acción en los videojuegos es muy frenetica a tal grado que sentiras parte de esa acción, en este apartado podras encontrar los juegos de accion que mas intensos y alaves populares que tenemos para ofrecerte.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/5f7e985c-0252-4072-a94c-38e820542ead)
 
 ## Aventura
 
