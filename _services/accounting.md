@@ -18,9 +18,17 @@ La acción en los videojuegos es muy frenetica a tal grado que sentiras parte de
 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+### Ori and the Will of the Wisps
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/0f962071-1c41-49ce-bce8-d47d34045856)
+
+### Metal Gear Solid V: The Phantom Pain 
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/5142cb6f-1acf-4a01-8c7c-dded738d6ffb)
+
+### Resident Evil 2 Remake
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/2d9ceb93-86a6-4114-981d-21961f565680)
 
 ## Deportes
 
