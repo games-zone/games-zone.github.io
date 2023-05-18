@@ -40,7 +40,31 @@ Los juegos de aventura son grandiosos a tal grado que es uno de los generos que 
 
 ## Deportes
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Los juegos de deportes suelen ser muy divertidos, y hacernos pasar un buen rato y no nadamas eso si no, tambien pueden darnos un nivel de realidad fantastico con el cual se disfruta mucho de estos juegos.
+
+### Fifa 23
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/36784d6e-ec2b-49b4-a114-bd437c91014e)
+
+### Madden NFL 23
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/45d2771e-1a3c-4c2d-8a05-b51ed90f07e2)
+
+### WWE 2k23
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/768f0f59-3e61-4ff6-be58-dea9d00a70a5)
+
+### NBA 2k23
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/da4055f5-d649-4163-b969-43f7f10e0897)
+
+### F1 23
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/98f56083-1162-41cc-868c-420cd1ffeb46)
+
+### UFC 23
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/35d4861e-dd33-4a2a-a8b1-949ba53b7eb9)
 
 ## Simuladores
 
