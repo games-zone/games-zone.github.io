@@ -14,7 +14,7 @@ La acción en los videojuegos es muy frenetica a tal grado que sentiras parte de
 
 ![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/5f7e985c-0252-4072-a94c-38e820542ead)
 
-## Aventura
+# Aventura
 
 Los juegos de aventura son grandiosos a tal grado que es uno de los generos que mas vende a nivel mundial, por eso en nuestros catalogos los podras encontrar en parte de nuestro gran catalogo  
 
@@ -38,7 +38,7 @@ Los juegos de aventura son grandiosos a tal grado que es uno de los generos que 
 
 ![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/27ee8533-676c-44e8-9e64-cbf32372018a)
 
-## Deportes
+# Deportes
 
 Los juegos de deportes suelen ser muy divertidos, y hacernos pasar un buen rato y no nadamas eso si no, tambien pueden darnos un nivel de realidad fantastico con el cual se disfruta mucho de estos juegos.
 
@@ -66,7 +66,7 @@ Los juegos de deportes suelen ser muy divertidos, y hacernos pasar un buen rato 
 
 ![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/35d4861e-dd33-4a2a-a8b1-949ba53b7eb9)
 
-## Simuladores
+# Simuladores
 
 ### Juegos de interpretacion
 
@@ -83,7 +83,7 @@ Timeliness: Timeliness implies that financial information must be presented to t
 
 ---
 
-## Estrategia
+# Estrategia
 
 The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
 
