@@ -68,35 +68,36 @@ Los juegos de deportes suelen ser muy divertidos, y hacernos pasar un buen rato 
 
 # Simuladores
 
-### Juegos de interpretacion
+## Juegos de interpretacion
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+### Cyberpunk 2077
 
-### Juego Reglado 
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/c9a69018-58f1-45e5-a178-02131d2cf527)
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+### Hogwarts Legacy
 
-### Juegos Sinópticos
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/d43787e4-c18b-4dde-8b99-423fdf5bc055)
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+### Gta 5
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/13393bf3-20b1-44c8-973c-7806a53985b5)
 
 ---
 
 # Estrategia
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+Los juegos de estrategia te podran a prueba, "estas listo"  VAMO A DARLE.
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+### Halo Wars 2 
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/0e93d582-c4e9-4e7d-aa36-3c34d768a2ef)
+
+### Halo Wars: Definitive Edition
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/d8805ca9-e593-4f71-a108-414eea5b04e7)
+
+### Order of Battle: World War II 
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/1709897a-242c-4cba-b192-e7ad4c73a21c)
+
+
