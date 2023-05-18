@@ -4,11 +4,13 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Business advisory is the final tier of the accounting pyramid. Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Estos juegos son fenomenales a pesar de que son muy criticados por su sistema de monetización pero te la pasaras fenomenal al jugarlos por eso aqui veras algunos de ellos para que te puedas divertir.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Juegos de "Guerras"
+
+Los juegos en el que se ambientan las guerras suelen ser muy divertidos pero a la ves son muy competitivos asi que a divertirse. 
 
 Financial accounting and financial reporting are often used as synonyms.
 
