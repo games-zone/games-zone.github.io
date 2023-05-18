@@ -16,7 +16,7 @@ La acción en los videojuegos es muy frenetica a tal grado que sentiras parte de
 
 ## Aventura
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Los juegos de aventura son grandiosos a tal grado que es uno de los generos que mas vende a nivel mundial, por eso en nuestros catalogos los podras encontrar en parte de nuestro gran catalogo  
 
 ### Ori and the Will of the Wisps
 
@@ -29,6 +29,14 @@ Relevance is the capacity of the financial information to influence the decision
 ### Resident Evil 2 Remake
 
 ![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/2d9ceb93-86a6-4114-981d-21961f565680)
+
+### Assassin's Creed IV: Black Flag
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/ad9c0aee-654f-4b8a-b13d-938b5edd7b26)
+
+### Resident Evil 7
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/27ee8533-676c-44e8-9e64-cbf32372018a)
 
 ## Deportes
 
