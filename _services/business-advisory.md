@@ -12,23 +12,37 @@ Estos juegos son fenomenales a pesar de que son muy criticados por su sistema de
 
 Los juegos en el que se ambientan las guerras suelen ser muy divertidos pero a la ves son muy competitivos asi que a divertirse. 
 
-Financial accounting and financial reporting are often used as synonyms.
+## Warzone 2
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/bf54fb1c-fa8b-4838-babf-5b79495efab5)
 
-## Relevance
+## Fornite 
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/3d157bce-7b48-430d-b053-e35a30d4a60a)
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Apex Legends
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/3b9597cb-f332-4b49-9fe8-e89ec18bdfea)
 
-## Faithful Representation
+## Pung
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/a73c20bd-8755-4258-8d00-cb693173510d)
+
+# Juegos para niños
+
+Los juegos para niños son entretenidos para todas las edades estos varian mucho pero, estos juegos son dedicados para ellos para no tener problemas con su sensibilidad.
+
+## Fall Guys 
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/d8ba5786-1d38-4a19-ba16-68b43d31b2cb)
+
+## Fornite
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/fa6ee6e6-29ae-498e-b54d-d98c07995697)
+
+# "Otros juegos" 
+
+En este apartado encontraras juegos de diferentes generos desde lo ma casual hasta muy hancor, siempre titulos muy buenos pero siempre con buena jugabilidad. 
 
 ## Enhancing Qualitative Characteristics
 
