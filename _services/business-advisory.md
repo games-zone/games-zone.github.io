@@ -44,57 +44,22 @@ Los juegos para niños son entretenidos para todas las edades estos varian mucho
 
 En este apartado encontraras juegos de diferentes generos desde lo ma casual hasta muy hancor, siempre titulos muy buenos pero siempre con buena jugabilidad. 
 
-## Enhancing Qualitative Characteristics
+## World of Tanks
 
-### Verifiability
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/a1b6a813-0b7f-460e-a92f-703b88c8e964)
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## Destiny 2
 
-### Comparability
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/8e8238f7-0779-4013-bef1-f21de3117c16)
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+## War Thunder
 
-### Understandability
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/96815210-0196-4e62-a3a5-7c59ca3a032b)
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+## Rocket League
 
----
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/7a016919-3d83-4e80-a9dd-e24fc6391d24)
 
-## Statement of cash flows
+## World of Warships
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/68764911-ebd1-4471-bc22-c0bcded9b2e3)
