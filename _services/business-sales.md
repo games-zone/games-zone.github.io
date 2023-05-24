@@ -4,35 +4,39 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-jjjj
+Los juegos de la xbox 360 son muy recordados hasta la fecha, y es por esto que aun tenemos un catalogo de estos juegos, son la infancia de muchos asi que los titulos les traeran mucha nostalgia muchos a quien los vea. 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Juegos de primera persona 
 
-Financial accounting and financial reporting are often used as synonyms.
+Los juegos en primera persona son juegos muy divertidos ya que te dan un nivel muy bueno en el aspecto de la jugabilidad.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Left 4 dead 
 
-## Relevance
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/6256cfe1-8b6f-4da6-9ddb-ad039d15c343)
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Left 4 dead 2 
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/3e8e6053-80f7-470b-bbf2-620e99de8cef)
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Call of duty black ops
 
-## Faithful Representation
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/837cfebb-f8e6-4cff-8218-45723db9731b)
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Call of duty black ops 2
 
-## Enhancing Qualitative Characteristics
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/49b4eaa6-dfd2-4281-9fe8-1c30d2be7c28)
 
-### Verifiability
+# Juegos de carreras
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## Blur
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/0d231cf6-e9e8-4571-a699-04b154a1b259)
+
+## Forza horizon 4
+
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/b9e482cf-d3c1-4f05-aeed-6d9fa451e44e)
 
 ### Comparability
 
