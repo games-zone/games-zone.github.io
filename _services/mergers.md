@@ -28,15 +28,12 @@ Los juegos que aqui se muestran son muy divertidos, son los titulos que son muy 
 
 ## Halo Reach
 
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/67ba5813-d7b9-4972-be03-ef2a2e08279d)
 
+## Grand Theft Auto V
 
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/3d712a0d-c879-4261-b71b-b57c5b38a432)
 
+## JUMP Force
 
-
-
-
-
-
-
-
-
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/97cc20b1-ba81-41cf-a070-2c949c7c8006)
