@@ -4,83 +4,42 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Los juegos de Guitar Hero marcaron epoca pero sobre todo una moda por eso y que actualmente son muy demandados, te mostraremos una pequeña muestra de el catalogo que tenemos disponibles; estos juegos son legendarios para cualquier amante del genero son divertidisimos "asi que esperas en probarlos".  
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Guitar Hero: Metallica 
 
-Financial accounting and financial reporting are often used as synonyms.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/8abf32c6-77b2-4c13-a064-ed8821e87757)
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/d4f6c6ea-c7d7-4700-b768-8289fb57ca33)
 
-## Relevance
+# Guitar Hero III: Legends of Rock  
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/6043e104-e688-44cf-a614-2a6e4ef72426)
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/14b77d34-ed2b-43b9-a77e-72008f98b963)
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+# Guitar Hero: Warriors of Rock
 
-## Faithful Representation
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/5c2de81b-fd5f-4e51-97bb-3e7ea1a62584)
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/b698ba5c-5022-4135-8683-7bc8e8772e5c)
 
-## Enhancing Qualitative Characteristics
+# Guitar Hero World Tour 
 
-### Verifiability
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/8e5e7d2d-e8b2-4a41-b772-5b099495fc3e)
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/23835579-93ba-41f2-9fa7-71d639ead903)
 
-### Comparability
+# Guitar Hero 5
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/da5e1014-6313-4ff4-ad18-592baa5452e9)
 
-### Understandability
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/bc626a5b-3b7e-433a-965c-03de74451c45)
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+# Rock Band
 
----
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/839440e3-a0b3-48bf-9c52-fcc1151093b8)
 
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+![image](https://github.com/games-zone/games-zone.github.io/assets/125934637/3754963e-a602-41e8-94ee-a3701d0e5cdb)
