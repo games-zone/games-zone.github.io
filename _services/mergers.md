@@ -6,7 +6,7 @@ weight: 3
 
 Los juegos que aqui se muestran son muy divertidos, son los titulos que son muy jugados, que te muestran un nivel de juego muy impresionante.  
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/IMG_20230527_001812.jpg)
 
 # Juegos populares
 
