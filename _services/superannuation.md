@@ -6,7 +6,7 @@ weight: 5
 
 Los juegos de Guitar Hero marcaron epoca pero sobre todo una moda por eso y que actualmente son muy demandados, te mostraremos una pequeña muestra de el catalogo que tenemos disponibles; estos juegos son legendarios para cualquier amante del genero son divertidisimos "asi que esperas en probarlos".  
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/IMG_20230527_001612%20(1).jpg)
 
 # Guitar Hero: Metallica 
 
