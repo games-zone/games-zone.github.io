@@ -6,7 +6,7 @@ weight: 1
 
 Los juegos que actualmente tenemos son variados desde un publico infantil hasta un publico mayor, a la vés que nos preocupamos de tener los juegos mas nuevos que a su vez son muy populares, el catalogo es amplio -a si que te invito, a que juegos te animarias a jugar. 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/IMG_20230527_001656.jpg)
 
 # Acción
 
