@@ -6,7 +6,7 @@ weight: 4
 
 Estos juegos son fenomenales a pesar de que son muy criticados por su sistema de monetización pero te la pasaras fenomenal al jugarlos por eso aqui veras algunos de ellos para que te puedas divertir.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/IMG_20230527_001806.jpg)
 
 # Juegos de "Guerras"
 
