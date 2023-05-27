@@ -6,7 +6,7 @@ weight: 2
 
 Los juegos de la xbox 360 son muy recordados hasta la fecha, y es por esto que aun tenemos un catalogo de estos juegos, son la infancia de muchos asi que los titulos les traeran mucha nostalgia muchos a quien los vea. 
 
-![Accounting Services](/images/71DQQbvfVqL._AC_SL1125_.jpg)
+![Accounting Services](/images/IMG_20230527_001827.jpg)
 
 # Juegos de primera persona 
 
